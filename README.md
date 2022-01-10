@@ -31,9 +31,9 @@ Cada subitem é um link para sua respective página de cadastros.
 ### Movimentações
 Nesta página, você verá 2 grupos: **Funções** e **Filtros**; Estes grupos manipulam os registros na tabela de movimentações.
 Em **Funções** você pode:
-1. expandir ou recolher os detalhes de todos os registros, usando os botões "Expandir todos" e "Recolher todos".
-2. exportar os dados da tabela (filtrada) em PDF, Excel, CSV ou para a Área de transferência do seu computador, utilizando os botões "Exportar para PDF", "Exportar para Excel", "Exportar para CSV" e  "Copiar".
-3. Adicionar uma nova movimentação pelo botão "Inserir nova movimentação".
+1. expandir ou recolher os detalhes de todos os registros, usando os botões **"Expandir todos"** e **"Recolher todos"**.
+2. exportar os dados da tabela (filtrada) em PDF, Excel, CSV ou para a Área de transferência do seu computador, utilizando os botões **"Exportar para PDF"**, **"Exportar para Excel"**, **"Exportar para CSV"** e  **"Copiar"**.
+3. Adicionar uma nova movimentação pelo botão **"Inserir nova movimentação"**.
 
 Em **Filtros** você pode filtrar o conteúdo da tabela por:
 1. Conta;
