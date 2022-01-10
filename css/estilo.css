@@ -1,0 +1,184 @@
+/* ESTILO.CSS */
+
+*{ 
+    margin: 0; 
+    padding: 0; 
+}
+
+body{ 
+    font-family: helvetica, arial;
+    font-size: 16px;
+    color: #343434;
+}
+
+header{ 
+    height: 100px; 
+    background-color: #343434; 
+}
+
+footer{ 
+    height: 50px; 
+    background-color: #77FF77; 
+    padding: 10px 0; 
+    text-align: center; 
+    font-size: 12px; 
+    color: #B37D2A; 
+}
+
+/* class */
+/*.container{ margin: 0 auto; width: 960px; }*/
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: 0.5rem 0;
+    margin: 0.125rem 0 0;
+    font-size: 1rem;
+    color: #FFF;
+    text-align: left;
+    list-style: none;
+    background-color: #343434;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #FFF;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+    color: #77FF77;
+    text-decoration: none;
+    background-color: #343434;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #007bff;
+}
+
+.dropdown-item.disabled, .dropdown-item:disabled {
+    color: #6c757d;
+    background-color: transparent;
+}
+
+.va-middle {
+  vertical-align: middle !important;
+}
+
+.va-top {
+  vertical-align: top !important;
+}
+
+.va-bottom {
+  vertical-align: bottom !important;
+}
+
+.va-sub {
+  vertical-align: sub !important;
+}
+
+.va-super {
+  vertical-align: super !important;
+}
+
+.va-text-top {
+  vertical-align: text-top !important;
+}
+
+.va-text-bottom {
+  vertical-align: text-bottom !important;
+}
+
+.va-baseline {
+  vertical-align: baseline !important;
+}
+
+.ha-left{
+    text-align: left !important;
+}
+
+.ha-center{
+    text-align: center !important;
+}
+
+.ha-right{
+    text-align: right !important;
+}
+
+.ha-justify{
+    text-align: justify !important;
+}
+
+.ha-justify-all{
+    text-align: justify-all !important;
+}
+
+.ha-inherit{
+    text-align: inherit !important;
+}
+
+.callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+  h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
+  p:last-child {
+    margin-bottom: 0;
+  }
+  code {
+    border-radius: 3px;
+  }
+  & + .bs-callout {
+    margin-top: -5px;
+  }
+}
+@each $name,$color in (default,#777),(primary,#428bca),(success,#5cb85c),(danger,#d9534f),(warning,#f0ad4e),(info,#5bc0de), (bdc,#29527a) {
+  .callout-#{$name} {
+    border-left-color: $color;
+    h4 {
+      color: $color;
+    }
+  }
+}
+
+/* id */
+#conteudo{
+    padding: 20px 0;
+}
+
+#menu{ 
+    float: right;
+    padding: 0.75rem 1.5rem; 
+}
+#menu a{ 
+    text-decoration: none; 
+    padding: 1rem 1.5rem; 
+    color: #FFF;
+    text-shadow: 1px 1px 1px #343434; 
+    background-color: #343434; 
+}
+#menu a:hover{ 
+    background-color: #343434; 
+    color: #77FF77;
+}
