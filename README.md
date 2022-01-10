@@ -62,29 +62,29 @@ Cadastro de movimentos possíveis em uma conta.
 
 ## Tecnologias utilizadas
 Tecnologias utilizadas para desenvolver o sistema.
+
 ### HTML
-HTML
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML 5" height="32"/>
 
 ### PHP
-PHP
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="32"/>
 
 ### CSS
-CSS
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS 3" height="32"/>
 
 ### JavaScript
-JavaScript
 
 #### JavaScript
-JavaScript puro
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="32"/>
 
 #### JQuery
-JQuery
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg" alt="JavaScript" height="32"/>
 
 ### BootStrap
-BootStrap
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="JavaScript" height="32"/>
 
 ### DataTables
-DataTables
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Datatables_logo_square.png" alt="JavaScript" height="32"/>
 
 ### FontAwesome
-FontAwesome
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Font_Awesome_5_logo_black.svg" alt="JavaScript" height="32"/>
