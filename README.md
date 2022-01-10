@@ -1,23 +1,5 @@
 # Conta
-Sistema de controle de contas
-
-## Sumário
-1. [Sobre](#sobre)
-2. [Home](#home)
-    1. [Bancos cadastrados](#bancos-cadastrados)
-    2. [Agências cadastrados](#agencias-cadastradas)
-    3. [Contas cadastrados](#contas-cadastradas)
-    4. [Titulares cadastrados](#titulares-cadastrados)
-    5. [Movimentações agendadas para os próximos 7 dias](#movimentacoes-agendadas-para-os-proximos-7-dias)
-3. [Menu](#menu)
-    1. [Movimentações](#movimentacoes)
-    2. [Cadastros](#cadastros)
-        1. [Bancos](#bancos)
-        2. [Agências](#agencias)
-        3. [Contas](#contas)
-        4. [Titulares](#titulares)
-        5. [Movimentos](#movimentos)
-4. [Tecnologias utilizadas](#tecnologias-utilizadas)
+Sistema de controle de contas.
 
 ## Sobre
 Este sistema faz a gestão e controle de contas bancárias com movimentações (inclusive entre contas).
