@@ -1,8 +1,8 @@
 <?php 
 
 $servidor = "localhost";
-$usuario = "usr_contas";
-$senha = "6uHh6xQwgVlqnykd";
+$usuario = "";
+$senha = "";
 $db = "contas";
 
 $conexao = mysqli_connect($servidor, $usuario, $senha, $db);
