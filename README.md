@@ -1,6 +1,11 @@
 # Conta
 Sistema de controle de contas.
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Contas**
+| :label: Tecnologias | php, html, css, mysql, javascript, jquery, bootstrap, datatables, font-awesome e vscode
+
 ## Sobre
 Este sistema faz a gestão e controle de contas bancárias com movimentações (inclusive entre contas).
 
