@@ -11,6 +11,7 @@ Este sistema faz a gestão e controle de contas bancárias com movimentações (
 
 ## Home
 Na Home você terá um resumo do sistema. O logo e nome do site contém um link para a home.
+![Home](https://user-images.githubusercontent.com/83261134/213882355-9ce2b362-4ac5-4f77-84dc-e053f60058b9.png#vitrinedev)
 
 ### Bancos cadastrados
 Nesta linha, você verá uma pílula de quantidade de bancos cadastrados com um link para a lista de bancos.
@@ -26,6 +27,7 @@ Nesta linha, você verá uma pílula de quantidade de titulares cadastrados com 
 
 ### Movimentações agendadas para os próximos 7 dias
 Nesta linha, você verá uma pílula de quantidade de movimentações para os próximos 7 dias com um link para a lista de movimentações.
+
 
 ## Menu
 No menu, você encontrará 2 itens: **Movimentações** e **Cadastros**.
@@ -46,24 +48,30 @@ Em **Filtros** você pode filtrar o conteúdo da tabela por:
 3. Mês;
 4. Tipo.
 Por padrão, o mês vem preenchido com o mês atual.
+![Movimentacoes](https://user-images.githubusercontent.com/83261134/213882750-1a9c6006-df76-4bbb-ab15-cb421836d371.png)
 
 ### Cadastros
 Neste item você encontra um submenu para os cadastros dentro do sistema, que são: **Bancos**, **Agências**, **Contas**, **Titulares** e **Movimentos**.
 
 #### Bancos
 Cadastros de bancos.
+![Bancos](https://user-images.githubusercontent.com/83261134/213882416-e2554cb3-c7b7-4067-ad4f-bc58114aee2d.png)
 
 #### Agências
 Cadastros de agências.
+![Agencias](https://user-images.githubusercontent.com/83261134/213882450-83cbd22a-233f-412f-b179-341bf4d17b06.png)
 
 #### Contas
 Cadastros de contas.
+![Contas](https://user-images.githubusercontent.com/83261134/213882558-ab41e25e-a19e-4f09-8bb5-0745599aacf4.png)
 
 #### Titulares
 Cadastro de titulares.
+![Titulares](https://user-images.githubusercontent.com/83261134/213882619-ede5ec73-a76a-4c77-b4f5-6f80c1a0fa08.png)
 
 #### Movimentos
 Cadastro de movimentos possíveis em uma conta.
+![Movimentos](https://user-images.githubusercontent.com/83261134/213882700-9117bcfd-ceff-4647-84a8-2d3f4353d92c.png)
 
 ## Tecnologias utilizadas
 Tecnologias utilizadas para desenvolver o sistema.
